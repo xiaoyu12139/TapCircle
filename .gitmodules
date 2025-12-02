@@ -1,0 +1,3 @@
+[submodule "cococos"]
+	path = cococos
+	url = https://github.com/xiaoyu12139/TapCircle-cocos.git
